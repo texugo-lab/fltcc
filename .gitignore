@@ -1,0 +1,7 @@
+build/
+.clang-format
+main.flt
+main.c
+main.s
+main.o
+main
