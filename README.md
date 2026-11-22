@@ -1,5 +1,5 @@
 # **Float Code**
-A **C** powered programming language
+A **C++** powered programming language
 
 ## Installation
 
